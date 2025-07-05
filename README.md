@@ -8,7 +8,7 @@ A modern Power BI solution that turns raw hotel data into clear, actionable insi
 
 You can explore the live, interactive version of this Power BI dashboard hosted on the Power BI Service:
 
-🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiZGU4ZGQ5ODgtYWZkNS00NzgzLWFkZDQtNzY0NTdmZjY0ZWFhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Open Live Report](https://app.powerbi.com/view?r=eyJrIjoiMjhjZmRlMTgtNTFhYi00Mzk2LWExNzMtMjJlYTE5NWViMzgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 *(Best viewed on desktop in full-screen mode)*
 
 ---
