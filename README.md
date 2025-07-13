@@ -80,7 +80,7 @@ All data used in this project was provided as flat `.csv` files, including:
 ![Overall](https://github.com/ShubhamVimal/AtliQ_Grands_Hospitality_Analysis/blob/main/Overall_Insights.PNG)
 
 #### 📅 Monthly Insights  
-![Monthly](https://github.com/ShubhamVimal/AtliQ_Grands_Hospitality_Analysis/blob/main/Monthly_Insights.PNG)
+![Monthly](https://github.com/ShubhamVimal/AtliQ_Grands_Hospitality_Analysis/blob/main/Monthly_Insights.JPG)
 
 ---
 
