@@ -30,14 +30,7 @@ Build a Power BI dashboard that enables AtliQ Grands to:
 
 ## 🗂 Data Sources
 
-All data used in this project was provided as flat `.csv` files, including:
-
-- `fact_bookings.csv` – Main transactional data (bookings, dates, platforms, status)  
-- `fact_aggregated_bookings.csv` – Pre-summarized booking metrics  
-- `dim_date.csv` – Calendar table for time-based analysis  
-- `dim_hotels.csv` – Hotel/property metadata  
-- `dim_rooms.csv` – Room classifications  
-- `meta_data_hospitality.txt` – Column definitions and metadata  
+All data used in this project was provided as flat `.csv` files.
 
 ---
 
